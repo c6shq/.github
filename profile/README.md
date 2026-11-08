@@ -10,7 +10,7 @@ experience for reviewing access and controlling enrolled devices.
 
 | Surface | Purpose | Availability |
 | --- | --- | --- |
-| [c6s CLI](https://docs.c6s.whitekiwi.link/cli) | Find secrets, create requests, and run approved actions | Private beta |
+| [c6s CLI](https://docs.c6s.app/cli) | Find secrets, create requests, and run approved actions | Private beta |
 | Cerberus for macOS | Manage the vault and review agent activity | Private beta |
 | Cerberus for iOS | Approve requests and manage trusted devices | TestFlight beta |
 | [Agent skills](https://github.com/c6shq/skills) | Codex and Claude Code workflows for c6s | Public preview |
@@ -36,7 +36,7 @@ brew install --cask c6shq/tap/cerberus
 
 ## Community
 
-- Read the [documentation](https://docs.c6s.whitekiwi.link)
+- Read the [documentation](https://docs.c6s.app)
 - Report a bug or suggest a feature in [c6shq/feedback](https://github.com/c6shq/feedback/issues)
 - Review public packages in [c6shq/homebrew-tap](https://github.com/c6shq/homebrew-tap)
 - Report security vulnerabilities privately using the process in our [security policy](https://github.com/c6shq/.github/blob/main/SECURITY.md)
